@@ -1,6 +1,6 @@
 <?php
 
-declare(string_types=1);
+declare(strict_types=1);
 
 require __DIR__ . '/db.php';
 
